@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/OOPS/pom.xml" />
+        <option value="$PROJECT_DIR$/Prakhar/pom.xml" />
+        <option value="$PROJECT_DIR$/Classroom/pom.xml" />
+        <option value="$PROJECT_DIR$/Harsh/pom.xml" />
+        <option value="$PROJECT_DIR$/Cyril/pom.xml" />
+        <option value="$PROJECT_DIR$/Agrim/pom.xml" />
+        <option value="$PROJECT_DIR$/SelfPractice/pom.xml" />
+        <option value="$PROJECT_DIR$/SelfPractice/Prakhar/pom.xml" />
+        <option value="$PROJECT_DIR$/SelfPractice/Cyril/pom.xml" />
+        <option value="$PROJECT_DIR$/SelfPractice/Agrim/pom.xml" />
+        <option value="$PROJECT_DIR$/SelfPractice/Harsh/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/OOPS/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="corretto-22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

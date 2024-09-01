@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SelfPractice" />
+        <module name="Agrim" />
+        <module name="OOPS" />
+        <module name="Cyril" />
+        <module name="Prakhar" />
+        <module name="Harsh" />
+        <module name="Strings" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1.OOPS" target="22" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
