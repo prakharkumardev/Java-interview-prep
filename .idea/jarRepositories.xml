@@ -2,9 +2,24 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="artifactory" />
+      <option name="name" value="artifactory" />
+      <option name="url" value="https://int.repositories.cloud.sap/artifactory/proxy-cap-java/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactory2" />
+      <option name="name" value="artifactory2" />
+      <option name="url" value="https://int.repositories.cloud.sap/artifactory/build-milestones/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://int.repositories.cloud.sap/artifactory/build-milestones/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />

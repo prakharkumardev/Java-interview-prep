@@ -11,6 +11,10 @@
     <modules>
         <module>OOPS</module>
         <module>Strings</module>
+        <module>Collections</module>
+        <module>generics</module>
+        <module>Concurrency</module>
+        <module>MultiThreading</module>
     </modules>
 
     <properties>
